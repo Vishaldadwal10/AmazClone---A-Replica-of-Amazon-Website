@@ -1,6 +1,7 @@
 # AmazClone---A-Replica-of-Amazon-Website
 
 Description:
+<br>
 AmazClone is a project dedicated to replicating the renowned e-commerce platform, Amazon, using HTML and CSS. By faithfully recreating Amazon's homepage layout and design, this project serves as an educational resource for front-end developers to learn and practice their skills.
 
 The project meticulously replicates key features of Amazon's website, including the navigation bar, product cards, and footer. Through custom styling, it emulates Amazon's color scheme and typography while ensuring responsiveness across various devices.
